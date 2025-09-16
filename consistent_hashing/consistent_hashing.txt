@@ -1,0 +1,19 @@
+1 server
+server 1: 10000
+load factor: 1
+________________
+2 server
+server 1: 4668
+server 2: 5332
+load factor: 1.0664
+________________
+3 server
+server 1: 2565
+server 2: 3522
+server 3: 3913
+load factor: 1.1739
+________________
+2 server
+server 2: 5062
+server 3: 4938
+load factor: 1.0124
